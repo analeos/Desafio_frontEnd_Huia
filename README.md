@@ -1,6 +1,6 @@
 # maxdoctor
 
-Esse projeto é um desafio de Front-end proposto pela empresa [Huia](https://huia.haus/pt/) onde o objetivo era criar uma aplicação web utilizando [Vue.js](https://vuejs.org) ou [React](https://pt-br.reactjs.org) consumindo a API do IBGE contendo os nomes dos estados do Brasil. 
+Esse projeto é um desafio de Front-end proposto pela empresa [Huia](https://huia.haus/pt/) onde o objetivo era criar uma aplicação web utilizando [Vue.js](https://vuejs.org) ou [React](https://pt-br.reactjs.org) tendo como base esta [imagem](https://drive.google.com/file/d/0Bx8eoT_ccJz7TUxIcm43UVlYZTBTNmVIUml1c21aTFhJT2U4/view?usp=sharing) de referência.
 
 ## Executando o projeto localmente
 
